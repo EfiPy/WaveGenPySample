@@ -24,7 +24,7 @@ python3 covid19-seat.py
 The output...  
 Upper graph is cosine from -2 to 2 with 20% scale  
 lower graph is [this](https://udn.com/news/story/120911/5472587) graph from -2 to 2  
-![output](https://github.com/EfiPy/WaveGenPySample/covid19-seat.png?raw=true)
+![output](https://github.com/EfiPy/WaveGenPySample/blob/master/covid19-seat.png?raw=true)  
 note:  
 Due to it output to wav file, it can only present the time domain from 0.
 Due to it output to wav file, its y axis present from -1 to 1.
