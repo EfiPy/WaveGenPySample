@@ -17,8 +17,8 @@ square wave generator, example
 python3 SampleSquareFourier.py -f 30 -t 0.3 -v 70 -W SF1 SF2 SF3 SF4 SF5 SF30
 ```
 ## covid19-seat.py 
-Idea is from [this](https://udn.com/news/story/120911/5472587).  
-Calculus it and draw it into wav file.
+Idea is from [this](https://udn.com/news/story/120911/5472587). Calculus it and draw it into wav file.  
+![it](https://github.com/EfiPy/WaveGenPySample/blob/master/covid19-Calculus.png)  
 ```
 $ python3 covid19-seat.py
 parameters...
@@ -27,7 +27,7 @@ Integral value: 3.141593
 ```
 The output...  
 Upper graph is cosine from -2 to 2 with 20% scale  
-lower graph is [this](https://udn.com/news/story/120911/5472587) graph from -2 to 2  
+lower graph is [this graph](https://udn.com/news/story/120911/5472587) from -2 to 2  
 ![output](https://github.com/EfiPy/WaveGenPySample/blob/master/covid19-Answer.png?raw=true)  
 note:  
 Due to it output to wav file, it can only present the time domain from 0.
